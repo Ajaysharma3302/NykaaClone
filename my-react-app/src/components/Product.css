@@ -1,0 +1,46 @@
+.product-container{
+    
+    margin-top: 10px;
+    width: 90%;
+    margin: auto;
+    display: flex;
+}
+.product-container img{
+width:32%;
+padding: 10px;
+border-radius: 25px;
+}
+
+.offer-img{
+   padding: 12px;
+    width: 92%;
+    margin: auto;
+    border-radius: 25px;
+}
+.card-big-images img{
+    width: 100%;
+    
+}
+.small-box5{
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+    margin-left: 50px;
+   
+}
+
+.small-box5 img{
+    border-radius: 24px;
+}
+
+
+.main-card{
+    display: flex;
+    
+    gap:20px;
+}
+.main-card img{
+    gap: 23px;
+
+    width:20%;
+}
